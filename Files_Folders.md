@@ -1,7 +1,7 @@
 # Files & Folders I/O
 1. [File modes](https://github.com/vutran-space/Python_Note/blob/main/Files_Folders.md#file-modes)
 2. [Reading a file line-by-line](https://github.com/vutran-space/Python_Note/blob/main/Files_Folders.md#file-modes)
-3. Iterate files (recursively)
+3. [Iterate files (recursively)](https://github.com/vutran-space/Python_Note/blob/main/Files_Folders.md#file-modes)
 4. Getting the full contents of a file
 5. Writing to a file
 6. Check whether a file or path exist
