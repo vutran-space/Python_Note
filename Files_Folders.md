@@ -1,6 +1,6 @@
 # Files & Folders I/O
-  1. File modes(#File modes)
-  2.  Reading a file line-by-line
+1. File modes(#File modes)
+2. Reading a file line-by-line
 3. Iterate files (recursively)
 4. Getting the full contents of a file
 5. Writing to a file
