@@ -1,5 +1,5 @@
 # Files & Folders I/O
-1. ([#File modes](https://github.com/vutran-space/Python_Note/blob/main/Files_Folders.md#file-modes))
+1. [#File modes](https://github.com/vutran-space/Python_Note/blob/main/Files_Folders.md#file-modes)
 2. Reading a file line-by-line
 3. Iterate files (recursively)
 4. Getting the full contents of a file
