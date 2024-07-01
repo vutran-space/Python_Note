@@ -6,11 +6,11 @@ This is a simple Markdown file. Markdown is a lightweight markup language with p
 
 ## Features
 
-- **Bold** and *italic* text
-- Headers of various levels
-- Lists: ordered and unordered
-- Links and images
-- Code snippets
+1. **Bold** and *italic* text
+2. Headers of various levels
+3. Lists: ordered and unordered
+4. Links and images
+5. Code snippets
 
 ## Example Code
 
