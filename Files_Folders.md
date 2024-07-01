@@ -11,24 +11,24 @@
 11. Copying contents of one file to a dierent file
 
 
-#File modes
+# File modes
 
-#Reading a file line-by-line
+# Reading a file line-by-line
 
-#Iterate files (recursively)
+# Iterate files (recursively)
 
-#Getting the full contents of a file
+# Getting the full contents of a file
 
-#Writing to a file
+# Writing to a file
 
-#Check whether a file or path exists
+# Check whether a file or path exists
 
-#Replacing text in a file
+# Replacing text in a file
 
-#Checking if a file is empty
+# Checking if a file is empty
 
-#Read a file between a range of lines
+# Read a file between a range of lines
 
-#Copy a directory tree
+# Copy a directory tree
 
 #Copying contents of one file to a dierent file
