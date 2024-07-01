@@ -21,7 +21,7 @@ with open(filename, 'w') as f:
     f.write(filedata)
 with open(filename, 'a') as f:
     f.write('\\n' + newdata)
-````python
+````
  
 # Reading a file line-by-line
 
