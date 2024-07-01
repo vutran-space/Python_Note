@@ -22,8 +22,17 @@ with open(filename, 'w') as f:
 with open(filename, 'a') as f:
     f.write('\\n' + newdata)
 ````
- 
+
+```python
+try:
+	with open("fname", "r") as fout:
+		# Work with your open file
+except FileExistsError:
+		# Your error handling goes here
+````
 # Reading a file line-by-line
+
+
 
 # Iterate files (recursively)
 
