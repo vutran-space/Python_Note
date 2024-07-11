@@ -31,8 +31,27 @@ except FileExistsError:
 		# Your error handling goes here
 ````
 # Reading a file line-by-line
-
-
+```python
+# Open the file for reading
+with open('example.txt', 'r') as file:
+    # Read each line in the file
+    for line in file:
+        print(line.strip())  # Use strip() to remove any leading/trailing whitespace
+````
+```python
+try:
+    # Open the file for reading
+    with open('example.txt', 'r') as file:
+        # Read each line in the file
+        for line in file:
+            print(line.strip())  # Use strip() to remove any leading/trailing whitespace
+except FileNotFoundError:
+    print("Error: The file was not found.")
+except PermissionError:
+    print("Error: You do not have permission to read the file.")
+except Exception as e:
+    print(f"An unexpected error occurred: {e}")
+````
 
 # Iterate files (recursively)
 
