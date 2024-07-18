@@ -1,4 +1,4 @@
-1. Step 1 — Setting Up Python 3
+#1. Step 1 — Setting Up Python 3
 ```python
 sudo apt update && sudo apt -y upgrade
 ````
@@ -9,7 +9,7 @@ sudo apt install -y python3-pip
 sudo apt install build-essential libssl-dev libffi-dev python-dev
 ````
 
-3. Step 2 — Setting Up a Virtual Environment
+#2. Step 2 — Setting Up a Virtual Environment
 ```python
 sudo apt install -y python3-venv
 ````
